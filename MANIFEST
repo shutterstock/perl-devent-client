@@ -1,0 +1,13 @@
+Changes
+lib/Devent/Client.pm
+lib/Devent/Client/HTTP.pm
+lib/Devent/Client/UDP.pm
+lib/Devent/Client/ZMQ.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/devent-client-http.t
+t/devent-client-zmq.t
+t/devent-client-udp.t
+t/manifest.t
