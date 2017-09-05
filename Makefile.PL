@@ -5,6 +5,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'Devent::Client',
+    LICENSE             => 'MIT',
     AUTHOR              => q{Douglas Hunter <douglas@shutterstock.com>},
     VERSION_FROM        => 'lib/Devent/Client.pm',
     ABSTRACT_FROM       => 'lib/Devent/Client.pm',
